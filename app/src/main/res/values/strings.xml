@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+
+    //Toolbar
+    <string name="text_title_task">Tarefas</string>
+
+    //Texts Details
+    <string name="text_titulo">Título</string>
+    <string name="text_date">Data</string>
+    <string name="text_hour">Hora</string>
+
+    //Buttons
+    <string name="create_task">Criar Tarefa</string>
+    <string name="cancel_task">Cancelar</string>
+    <string name="label_new_task">Nova Tarefa</string>
+    <string name="text_task">Passear com o Cachorro</string>
+    <string name="date_task">01/01/2021 18:00</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+
+    //Text EmptyState
+    <string name="text_empty">Ops! Você não possui\n nenhuma tarefa!</string>
+</resources>
